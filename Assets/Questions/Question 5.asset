@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 5
   m_EditorClassIdentifier: 
   question: What symbol is used to denote comments in a Python program?
+  answers:
+  - //
+  - /* */
+  - '#'
+  - <!-- -->
+  correctAnswerIndex: 2

@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 2
   m_EditorClassIdentifier: 
   question: What does the acronym "SQL" stand for?
+  answers:
+  - Simple Query Language
+  - Structured Query Language
+  - Sequential Query Language
+  - System Query Language
+  correctAnswerIndex: 1

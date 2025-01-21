@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 4
   m_EditorClassIdentifier: 
   question: Which programming paradigm is Python most associated with?
+  answers:
+  - Object-oriented programming
+  - Functional programming
+  - Procedural programming
+  - All of the above
+  correctAnswerIndex: 3

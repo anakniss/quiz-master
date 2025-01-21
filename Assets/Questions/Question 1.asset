@@ -15,8 +15,8 @@ MonoBehaviour:
   question: Which programming language is often referred to as the "language of the
     web"?
   answers:
-  - int num = 12;
-  - int num = "12";
-  - Int num = 12;
-  - Int num = 12'
-  correctAnswerIndex: 0
+  - Python
+  - Java
+  - JavaScript
+  - C++
+  correctAnswerIndex: 2
