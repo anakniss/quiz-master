@@ -1,10 +1,10 @@
-# Master Quiz 🧠🎮
+# Quiz Master 🧠🎮
 
 This project is the result of the **Learn Unity in C# & Code Your First Five 2D Video Games for Web, Mac & PC. The Tutorials Cover Tilemap** course on Udemy. It’s a quiz game developed with Unity, using the Canvas tool to build the interface.
 
 ## 🎯 Objective
 
-The **Master Quiz** challenges players to answer questions correctly and earn points. It's perfect for those who want to test their knowledge while having fun!
+The **Quiz Master** challenges players to answer questions correctly and earn points. It's perfect for those who want to test their knowledge while having fun!
 
 ## 🚀 Features
 
@@ -29,4 +29,4 @@ The **Master Quiz** challenges players to answer questions correctly and earn po
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/anakniss/master-quiz.git
+   git clone https://github.com/anakniss/quiz-master.git
