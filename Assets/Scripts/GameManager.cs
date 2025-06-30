@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -10,14 +8,14 @@ public class GameManager : MonoBehaviour
 
     void Awake()
     {
-        quiz = FindObjectOfType<Quiz>();
-        endScreen = FindObjectOfType<EndScreen>();
+        quiz = FindObjectOfType<Quiz>(true);
+        endScreen = FindObjectOfType<EndScreen>(true);
     }
     
     void Start()
     {
-        quiz.gameObject.SetActive(true);
-        endScreen.gameObject.SetActive(false);
+        // quiz.gameObject.SetActive(true);
+        // endScreen.gameObject.SetActive(false);
     }
     
     void Update()

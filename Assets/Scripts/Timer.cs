@@ -12,6 +12,7 @@ public class Timer : MonoBehaviour
     public float fillFraction;
     public bool isAnsweringQuestion = false;
     float timerValue;
+    
     void Update()
     {
         UpdateTimer();
@@ -52,6 +53,6 @@ public class Timer : MonoBehaviour
             }
         }
         
-        Debug.Log(isAnsweringQuestion + ": " + timerValue + " = " + fillFraction);
+        //Debug.Log(isAnsweringQuestion + ": " + timerValue + " = " + fillFraction);
     }
 }

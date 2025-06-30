@@ -1,8 +1,5 @@
-using System.Collections;
-using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
-using UnityEngine.SocialPlatforms.Impl;
 
 public class EndScreen : MonoBehaviour
 {
@@ -15,6 +12,6 @@ public class EndScreen : MonoBehaviour
 
     public void ShowFinalScore()
     {
-        finalScoreText.text = "Congratulations!\nYou got a score of " + scoreKeeper.CalculateScore() + "%";
+        finalScoreText.text = "Você obteve a pontuação de " + scoreKeeper.CalculateScore() + "%";
     }
 }
